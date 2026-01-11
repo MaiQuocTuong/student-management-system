@@ -1,0 +1,2 @@
+class Schedule :
+    """giong student"""

@@ -1,0 +1,6 @@
+  student_management_system/
+  ├── app.py
+  ├── models.py
+  ├── routes.py
+  ├── templates/
+  └── static/

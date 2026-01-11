@@ -1,0 +1,2 @@
+class department :
+        """giong student"""
